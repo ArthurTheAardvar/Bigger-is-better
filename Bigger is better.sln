@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bigger is better", "Bigger is better\Bigger is better.pyproj", "{A1D34B77-7BCD-4172-9ADA-B257B12B3537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D34B77-7BCD-4172-9ADA-B257B12B3537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D34B77-7BCD-4172-9ADA-B257B12B3537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {443610DE-568D-4F36-903D-BD9969679FD1}
+	EndGlobalSection
+EndGlobal
